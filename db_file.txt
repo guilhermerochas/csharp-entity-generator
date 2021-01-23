@@ -1,0 +1,4 @@
+Driver={SQL Server};
+Server=.\SQLEXPRESS;
+Database=IMOVEIS;
+Trusted_Connection=yes;
